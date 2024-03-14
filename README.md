@@ -1,3 +1,3 @@
 # Fullstack Chat project
 
-Using React, Node, Chatengine API
+Using React, Nodejs, Chatengine API
